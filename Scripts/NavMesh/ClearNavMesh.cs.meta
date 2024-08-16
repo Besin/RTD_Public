@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/UI/CustomFloor.cs.meta
+guid: 1611379dfaefe9c418ce8b0d31163a63
+========
+guid: 062ae837c1fe2cb4a8786ce28efca400
+>>>>>>>> Seojj_Dev:Assets/Scripts/ScriptableObject/EnemyData.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
