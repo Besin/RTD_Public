@@ -71,7 +71,7 @@ C9조 Nine to Nine의 RTD입니다.
 
 게임은 50라운드동안 진행되며, 적들을 처치하여 획득한 재화들로 미로를 확장하고, 포탑을 늘리고, 강화하여 점점 강해지는 적들을 막아내야합니다.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0c28022d-c7fe-46c2-8034-37ea3a10a9a6)
 
 총 50라운드가 지나면 게임을 클리어 할 수 있으며 클리어 시 영구적으로 적용되는 특성을 해제할 수 있는 포인트를 얻습니다.
 
