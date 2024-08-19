@@ -39,7 +39,7 @@ C9조 Nine to Nine의 RTD입니다.
 
 5.옵션 버튼 : 게임의 음량을 설정할 수 있습니다.
 
-### 게임 화면
+### 메인 게임 화면
 
 ![image](https://github.com/user-attachments/assets/ec654753-216b-4f5e-949a-d1db9e094845)
 
@@ -47,6 +47,14 @@ C9조 Nine to Nine의 RTD입니다.
 
 ![image](https://github.com/user-attachments/assets/fd324144-348d-46f2-8a2f-ce70c778a859)
 
+### 튜토리얼
+
+![image](https://github.com/user-attachments/assets/96feedb6-f61f-4589-83af-2ed12e72aa67)
+
+만약 게임을 처음 플레이한다면 튜토리얼이 실행되며, 이를 통해 간단한 조작법을 학습할 수 있습니다.
+튜토리얼은 상태패턴을 이용하여 제작되었기때문에, 추후에 게임에 새로운 내용이 추가되어도 객체화된 새로운 상태를 통해 내용을 추가할 수도 있습니다.
+
+이 튜토리얼은 게임을 처음 플레이할 때 한번 실행되며, 튜토리얼을 플레이했는지 여부도 json을 통해 저장됩니다. 
 
 ---
 
